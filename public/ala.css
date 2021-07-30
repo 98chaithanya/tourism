@@ -1,0 +1,101 @@
+.sec3div1{
+    height: 700px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    text-align:center;
+}
+img:hover {
+    opacity: 0.5;
+  }
+#id3{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    color: brown;
+    text-align: center;
+}
+.sec3div2{
+    width :100%;
+    height: 20px;
+    border:1px;
+    text-align:center;
+}
+#para{
+    top:50%;
+    left:50%;
+    border:10px solid blue;
+    margin: 0;
+    color:crimson;
+    border: 2px skyblue;
+    margin-top: 2px;
+    margin-left: 5%;
+    letter-spacing: 2px;
+    line-height: 25px;
+    text-align:center;
+
+}
+.sec3base{
+    background-color:white;
+    color:darkorange;
+    height: 425px;
+    width: 25%;
+    border: 10px solid white;
+    float:left;
+    border-bottom-color: black;
+    border:  15px solid white;
+    margin: 10px;
+    background-image: url("./images/ala1.jpg");
+    background-size: cover;
+    margin-left: 10px;
+    
+
+}
+.sec3para{
+    top:20%;
+    left:50%;
+    border:10px solid blue;
+    margin: 0;
+    border: 2px skyblue;
+    margin-top: 2px;
+    margin-left: 5%;
+    letter-spacing: 2px;
+    line-height: 25px;
+    text-align:center;
+    background-size: cover;
+
+
+}
+.sec3knife{
+    background-color:black;
+    color:gainsboro;
+    height: 430px;
+    width: 35%;
+    float:left;
+    margin-left: 200%;
+    margin: 5px;
+    margin-top:1%;
+    text-align: center;
+    margin-left: 60;
+    background-image: url("./images/1500629883_alappuzhaala2.jpg");
+    background-size: cover;
+    
+}
+.sec3id2{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    color:crimson;
+    text-align: center;
+}
+.sec3cooking{
+    background-color:orangered;
+    color:blue;
+    height: 430px;
+    width: 30%;
+    float:right;
+    margin: 5px;
+    margin-top:1%;
+    text-align: center;
+    margin-right: 40px;
+    background-image: url("./images/msid-48538939\,width-96\,height-65ala3.cms");
+    background-size: cover;
+}
